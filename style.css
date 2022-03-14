@@ -1,0 +1,57 @@
+.image{
+    height:900px ;
+    width: 1550px;
+}
+.images{
+    height: 500px;
+    width: 500px;
+}
+h1{
+    text-align: center;
+    margin-top: 50px;
+    color: black;
+}
+.bloc{
+    margin-top: 50px;
+}
+h2{
+    color: black;
+}
+.affichage{
+    color: black;
+    display: flex;
+}
+.accueil{
+    color: black;
+    text-align: center;
+}
+.lien{
+    text-align: left;
+    color: black;
+}
+.space{
+     margin-left: 15px;
+}
+.dest{
+    margin-top: 20px;
+}
+footer{
+    display: flex;
+    margin-top: 50px;
+    background-color: crimson;
+    color: white;
+    margin-bottom: 30px;
+}
+body{
+    margin: 0%;
+    padding: 0%;
+    
+    background:url(img/pngtree-parasol-parachute-rescue-equipment-color-background-picture-image_403082.jpg);
+    height: 750vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.ac{
+    color: black;
+}

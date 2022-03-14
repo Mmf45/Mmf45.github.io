@@ -1,0 +1,72 @@
+.image{
+    height: 900px;
+    width: 1330px;
+}
+
+C{
+    height: 300px;
+    width: 500px;
+}
+
+
+
+.bloc{
+    margin-top: 15px;
+}
+
+header{
+    background-color:black;
+    height: 100px;
+    width: 1500px;
+}
+.accueil{
+    color:white;
+    text-align: center;
+}
+body{
+background-color: paleturquoise;
+height: 270;
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+}
+
+.lien{
+    text-align: center;
+}
+
+.space{
+    margin-left: 15px;
+}
+
+.dest{
+    margin-top: 20px;
+}
+.a{
+    height: 900px;
+    width: 1330px;
+}
+.b{
+    height: 900px;
+    width: 1330px;
+}
+.c{
+    height: 900px;
+    width:1330px;
+}
+
+
+.affichage{
+    display: flex;
+}
+
+footer{
+    display: flex;
+    margin-top: 60px;
+    background-color:black;
+    color: white;
+    margin-bottom: 30px;
+}
+.a{
+    width: 1500px;
+}
